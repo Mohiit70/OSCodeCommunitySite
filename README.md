@@ -64,10 +64,13 @@ Before starting out, you'll need to install the following on your computer.
 
 ## 🛠️ Installation
 
-1. Fork the repo
-2. Clone the repository `git clone `
-3. Run `cd ` to change the working directory
-4. Add the steps
+1. Fork the repository.
+2. Clone the repository: 'git clone <repository_url>'
+3. Change to the repository's directory: 'cd <repository_name>'
+4. Install dependencies: 'npm install' or 'pip install -r requirements.txt'
+5. Build the project: 'make' or 'npm run build'
+6. Run the project: 'python <script_name.py>' or 'npm start'
+7. Test the project: 'npm test'
 
 ## ❤️ Thanks to all the contributors
 
